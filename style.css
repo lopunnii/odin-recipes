@@ -19,9 +19,7 @@ p {
     color: peru;
 }
 
-.pavlova,
-.chocolate-cake,
-.chocolate-cookies {
+.image {
     border: 6px groove darksalmon;
     display: block;
     margin-left: auto;
