@@ -27,3 +27,11 @@ p {
     height: 25%;
     width: 25%;
 }
+
+.background {
+    background-color: white;
+}
+
+.left {
+    text-align: left;
+}
