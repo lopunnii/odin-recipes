@@ -1,0 +1,41 @@
+body {
+    background-color: linen;
+}
+
+h1,
+h2 {
+    text-align: center;
+    font-family: "Brush Script MT", "Garamond", serif;
+    color: darksalmon;
+}
+
+p {
+    text-align: center;
+    list-style-position: inside;
+    font-family: "Helvetica", "Verdana", sans-serif;
+}
+
+.pavlova,
+.chocolate-cake,
+.chocolate-cookies {
+    border: 6px groove darksalmon;
+}
+
+.pavlova {
+    height: 25%;
+    width: 25%;
+}
+
+.chocolate-cake {
+    height: 25%;
+    width: 25%;
+}
+
+.chocolate-cookies {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 25%;
+    width: 25%;
+    
+}
