@@ -15,27 +15,18 @@ p {
     font-family: "Helvetica", "Verdana", sans-serif;
 }
 
+.description  {
+    font-size: 14px;
+    color: peru;
+}
+
 .pavlova,
 .chocolate-cake,
 .chocolate-cookies {
     border: 6px groove darksalmon;
-}
-
-.pavlova {
-    height: 25%;
-    width: 25%;
-}
-
-.chocolate-cake {
-    height: 25%;
-    width: 25%;
-}
-
-.chocolate-cookies {
     display: block;
     margin-left: auto;
     margin-right: auto;
     height: 25%;
     width: 25%;
-    
 }
